@@ -19,9 +19,9 @@ endm
 .stack 100h
 .data                     
 
-name_ db 'Badr Ijaz$'
-roll db '012$'
-university db 'Lahore Garrison University$'
+name_ db 'Badr$'
+roll db '$'
+university db '$'
 address db 'DHA Phase VI mein kidhr$'
 
 .code
